@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(182, 182, 247);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.cal {
+    background-color: rgb(52, 57, 5);
+    height: 500px;
+    width: 450px;
+    border-radius: 10px;
+    /*display:flex;*/
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: aliceblue;
+}
+.cal{
+    color: grey;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.img{
+    height: 170px;
+    width: 170px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+button{
+    height: 30px;
+    width: 70px;
+    background-color: rgb(35, 35, 205);
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: rgb(216, 25, 25);
+}
+
+	
+
